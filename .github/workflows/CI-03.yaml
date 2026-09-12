@@ -53,4 +53,4 @@ jobs:
 
       - run: docker build -t $APP_NAME .
 
-      - run: echo "Docker image built successfully: $APP_NAME"
+      - run: 'echo "Docker image built successfully: $APP_NAME"'
