@@ -1,2 +1,4 @@
-.github 
-.git 
+.github/
+.git/
+.venv/
+__pycache__/
